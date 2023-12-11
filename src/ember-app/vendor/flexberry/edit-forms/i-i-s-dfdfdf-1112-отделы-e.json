@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Отделы",
+  "name": "IISDfdfdf_1112ОтделыE",
+  "className": "ОтделыE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-dfdfdf-1112-отделы",
+      "modelProjection": "ОтделыE"
+    }
+  ]
+}

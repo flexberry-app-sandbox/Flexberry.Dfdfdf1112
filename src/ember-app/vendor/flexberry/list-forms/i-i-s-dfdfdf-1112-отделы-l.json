@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-dfdfdf-1112-отделы-e",
+  "editForm": "i-i-s-dfdfdf-1112-отделы-e",
+  "external": false,
+  "caption": "Отделы",
+  "name": "IISDfdfdf_1112ОтделыL",
+  "className": "ОтделыL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-dfdfdf-1112-отделы",
+      "modelProjection": "ОтделыL"
+    }
+  ]
+}

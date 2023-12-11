@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-dfdfdf-1112-график-отпуск-e",
+  "editForm": "i-i-s-dfdfdf-1112-график-отпуск-e",
+  "external": false,
+  "caption": "График отпуск",
+  "name": "IISDfdfdf_1112ГрафикОтпускL",
+  "className": "ГрафикОтпускL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-dfdfdf-1112-график-отпуск",
+      "modelProjection": "ГрафикОтпускL"
+    }
+  ]
+}

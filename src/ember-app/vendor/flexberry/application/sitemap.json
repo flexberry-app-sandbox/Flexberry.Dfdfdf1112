@@ -1,0 +1,64 @@
+﻿{
+  "applicationCaption": "Dfdfdf_1112",
+  "applicationTitle": "Dfdfdf_1112",
+  "items": [
+    {
+      "link": null,
+      "menuName": "dfdfdf-1112",
+      "caption": "Dfdfdf_1112",
+      "title": "Dfdfdf_1112",
+      "children": [
+        {
+          "link": "i-i-s-dfdfdf-1112-организации-l",
+          "menuName": null,
+          "caption": "Организации",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-dfdfdf-1112-график-отпуск-l",
+          "menuName": null,
+          "caption": "График отпуск",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-dfdfdf-1112-должности-l",
+          "menuName": null,
+          "caption": "Должности",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-dfdfdf-1112-согласие-опд-l",
+          "menuName": null,
+          "caption": "Согласие опд",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-dfdfdf-1112-сотрудники-l",
+          "menuName": null,
+          "caption": "Сотрудники",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-dfdfdf-1112-расчетный-лист-l",
+          "menuName": null,
+          "caption": "Расчетный лист",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-dfdfdf-1112-отделы-l",
+          "menuName": null,
+          "caption": "Отделы",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
